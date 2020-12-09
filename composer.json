@@ -1,5 +1,5 @@
 {
-    "name": "zelenin/smsru",
+    "name": "ts-goldcarrot/smsru",
     "description": "PHP-класс для работы с api сервиса [sms.ru](http://sms.ru)",
     "type": "library",
     "keywords": [
@@ -7,7 +7,7 @@
         "sms.ru",
         "api"
     ],
-    "homepage": "https://github.com/zelenin/sms_ru",
+    "homepage": "https://github.com/ts-goldcarrot/sms_ru",
     "license": "MIT",
     "authors": [
         {
